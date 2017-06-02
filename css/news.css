@@ -1,0 +1,208 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16-may-2017, 0:31:39
+    Author     : Jordi Gutierrez
+*/
+body{
+    background-image: url("../img/fondo.jpg");
+}
+
+header{
+    height: 170px;
+    background-color: #e5cf54;
+    opacity: 0.7;
+}
+
+.div_logo{
+    height:100px;
+
+}
+
+.logo{
+    max-height: 150px;
+    width: auto;
+    height: 50%;
+    margin-top: 10px;
+}
+
+.titol{
+    font-size: 8em;
+    line-height:150%;
+}
+header a:hover{
+    text-decoration : none;
+}
+
+a img:hover{
+    opacity: 0.5;
+    background-color: white;
+}
+.publicidadpeque{
+    display:none;
+}
+
+.publicidadgran{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height: 900px;
+    width: 300px;
+}
+
+section{
+    opacity: 0.8;
+    background-color: white;
+    min-height: 900px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: white;
+}
+section a:hover{
+    color:black;
+    background-color: blue;
+    opacity: 0.9;
+}
+
+article a{
+    color:black;
+}
+article a:hover{
+    text-decoration: none;
+}
+
+figcaption{
+    text-align:right;
+}
+
+p{
+    color:black;
+    font-size: 17px;
+}
+
+.imagen1, .imagen4, .imagen7{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding:2px;
+    border: black solid 6px;
+}
+
+cite a{
+    color:graytext;
+}
+cite a:hover{
+    color: white;
+}
+#seguir{
+    color:graytext;
+    float:right;
+}
+
+.segonas_noticias{
+    clear: both;
+}
+
+#article2{
+    clear:both;
+}
+
+.imagen2, .imagen3, .imagen5, .imagen6{
+    margin-bottom: 10px;
+    padding:2px;
+    border: black solid 6px;
+    clear:both
+}
+
+footer{
+    border:black solid 1px;
+    background-color: #247aa8;
+    opacity: 0.5;
+    text-align: center;
+    margin-top: 10px;
+
+
+}
+
+footer p a{
+    color: beige;
+}
+
+footer p a:hover{
+    color:black;
+}
+
+#copy1{
+    float:left;
+    display:inline-block;
+    margin-left: 40px;
+}
+
+#copy{
+    text-align: right;
+    margin-right: 20px;
+}
+
+
+@media screen and (max-width: 766px){
+
+    .logo{
+        min-height: 100px;
+        max-height: 100px;
+        min-width: 78px;
+        width: 78px;
+    }
+
+    .titol{
+        float:right;
+        line-height:150%;
+        font-size: 5em;
+        margin-top: 3%;
+        margin-right: 1px;
+    }
+    section{
+        height: auto;
+    }
+    header{
+        height: 110px;  
+    }
+    .publicidadgran{
+        display: none;
+    }
+
+    .publicidadpeque{
+        margin-top: 20px;
+        display: inline-block;
+        max-height: 90px;
+        min-height: 90px;
+        width: 100%;
+    }
+
+    #publi_peque{
+        max-height: 90px;
+        min-height: 90px;
+    }
+    p{
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .titol{
+        float:right;
+        line-height:150%;
+        font-size: 345%;
+        margin-top: 20px;
+        margin-left: 1px;
+    }
+}
+@media screen and (max-width: 365px){
+    .titol{
+        float:right;
+        line-height:150%;
+        font-size: 255%;
+        margin-top: 15%;
+        margin-right: 10px;
+    }
+}
