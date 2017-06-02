@@ -1,0 +1,20 @@
+{
+    "noticias3": [
+      {
+        "imagen": "../img/foto_noticia7.jpg",
+        "titulo": "Pide que le lleven una pizza después de que su tren se quedara parado en las vías",
+        "descripcion": "Un tren que cubría la ruta entre Boston y Washington se quedó parado en mitad del trayecto por razones que aún se desconocen. Como los pasajeros desconocían el tiempo que permanecerían allí, uno de los viajeros decidió pedir una pizza a 'domicilio' [...]"
+        
+      },
+      {
+        "imagen": "../img/foto_noticia8.jpg",
+        "titulo": "¿Qué son los mándalas? Origen, curiosidades y Mandalas para Colorear",
+        "descripcion": "Un mándala es un concepto que llega hasta nosotros desde la antigüedad, siendo usado generalmente en el ámbito religioso. Y es que el propio concepto ya tiene un significado muy […]"
+      },
+      {
+       "imagen": "../img/foto_noticia9.jpg",
+        "titulo": "¿Por qué se besan los seres humanos?",
+        "descripcion": "Los seres humanos son unos de los pocos seres vivos que se besan (algunas especies de peces y mamíferos también se besan) pero ¿por qué nos besamos? ¿cual es el fin de los […]"
+      }
+    ]
+  }

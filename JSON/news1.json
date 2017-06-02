@@ -1,0 +1,21 @@
+{
+    "noticias2": [
+        {
+            "imagen": "../img/foto_noticia4.jpg",
+            "titulo": "Afantasía o la incapacidad para imaginar",
+            "descripcion": "Cierra los ojos y tratar de imaginarte de vacaciones estando en una de esas idílicas playas en donde ya hayas estado en el pasado. Fácil ¿verdad? Pues esto que para[...] "
+        },
+       {
+            "imagen": "../img/foto_noticia5.jpg",
+            "titulo": "Bacterias que ayudan a reciclar",
+            "descripcion": "Un equipo de científicos está empleando bacterias para descomponer plásticos y así reducir su impacto en el medio ambiente e impulsar la economía al ofrecer oportunidades nuevas en el sector de la gestión de residuos. El nuevo proceso biotecnológico, desarrollado por los socios del proyecto financiado con fondos[…]"
+        },
+        {
+            "imagen": "../img/foto_noticia6.jpg",
+            "titulo": "España, un ejemplo en el reciclado de plásticos",
+            "descripcion": "Los españoles llenamos los más de 360.000 contenedores amarillos destinados al plástico. El pasado año y en sus múltiples formas (botellas, envases, bolsas, bandejas…) el mercado movió en nuestro país casi 700.000 toneladas de este material de las que casi el 57% fueron objeto de reciclaje. Ese volumen sitúa a España en el segundo país […]"
+        }
+    ]
+}
+
+ 
