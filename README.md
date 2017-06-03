@@ -1,7 +1,7 @@
 # noticias_Gutierrez
 ## Noticiero 
 ### Noticias curiosas o interresantes
-v1: Boceto dels tres html basics
+* v1: Boceto dels tres html basics
 v2: Creació del HTML principal
 v3: Aplicació Boostrap i css
 v4: Creació HTML de news1 i news2 
